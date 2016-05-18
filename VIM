@@ -1,0 +1,10 @@
+ Pour ecrir tout ce que je veux dans le vim faire i pour insertion
+Pour ajouter en fin de ligne A
+Quitter ":q"
+Quittet sans enregister :q!
+:w enregistrer le fichier
+:wq enregistrer et quitter
+ :x engistrer et quitter mais seulement si il y a des  modifications 
+
+repasser en mode commande : echap 
+
